@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="cornerRadius">10dp</dimen>
+
+    <dimen name="cut_half_elevation">30dp</dimen>
+</resources>
